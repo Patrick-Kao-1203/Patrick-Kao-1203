@@ -1,16 +1,21 @@
 ## Hi there 👋
+# 您好，我是 Patrick
 
-<!--
-**Patrick-Kao-1203/Patrick-Kao-1203** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+我是一位學習者，關注［測繪工程、空間資訊及AI與3D］。
 
-Here are some ideas to get you started:
+## 關注領域
+- ［GNSS、GIS］
+- ［3D建模］
+- ［AI及音樂科技］
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 這裡記錄什麼
+- AI 工具的學習與使用心得
+- 主題研究筆記及散記
+
+## 公開成果
+- 
+- 
+
+## 資料使用原則
+- AI 產出不直接視為已確認事實。
+- 重要結論保留原始來源及查閱日期。
